@@ -1,19 +1,19 @@
 "# AVR_ATmega32" 
 
-
-MCAL Layer: 
-1- DIO 
-2- ADC 
-3- Timers (Timer0, Timer1, Timer2) 
-4- Interrupts (including external interrupt) 
-5- USART 
-6- SPI 
-7- TWI 
-8- EEPROM
-HAL Layer: 
-1- LCD 
-2- Keypad 
-3- Potentiometer 
-4- LM35 (Temp sensor) 
-5- LDR 
-6- EEPROM Using TWI
+<br />
+MCAL Layer: <br />
+1- DIO <br />
+2- ADC <br />
+3- Timers (Timer0, Timer1, Timer2) <br />
+4- Interrupts (including external interrupt) <br />
+5- USART <br />
+6- SPI <br />
+7- TWI <br />
+8- EEPROM<br />
+HAL Layer: <br />
+1- LCD <br />
+2- Keypad <br />
+3- Potentiometer <br />
+4- LM35 (Temp sensor) <br />
+5- LDR <br />
+6- EEPROM Using TWI<br />
