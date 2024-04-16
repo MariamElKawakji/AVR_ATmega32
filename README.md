@@ -1,7 +1,7 @@
 "# AVR_ATmega32" 
 
 <br />
-__MCAL Layer:__ <br />
+### MCAL Layer:
 <br />
 1- DIO <br />
 2- ADC <br />
@@ -12,7 +12,7 @@ __MCAL Layer:__ <br />
 7- TWI <br />
 8- EEPROM<br />
 <br />
-__HAL Layer:__ <br />
+### HAL Layer:
 <br />
 1- LCD <br />
 2- Keypad <br />
